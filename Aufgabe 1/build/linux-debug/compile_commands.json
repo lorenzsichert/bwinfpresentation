@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/main.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/main.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/main.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/game.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/game.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/game.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/solution.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/solution.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/solution.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/helper.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/helper.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/helper.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/engine.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/engine.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/engine.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/object.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/object.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/object.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/texture.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/texture.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/texture.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/framebuffer.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/framebuffer.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/framebuffer.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/instanceObject.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/instanceObject.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/instanceObject.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/font.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/font.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/font.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/text.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/text.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/text.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/uiTexture.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/uiTexture.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/uiTexture.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/uiObject.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/uiObject.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/uiObject.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/common/loadShader.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/common/loadShader.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/common/loadShader.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/common/loadPNG.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/common/loadPNG.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/common/loadPNG.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/common/loadOBJ.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/common/loadOBJ.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/common/loadOBJ.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/shapes/circle.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/shapes/circle.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/shapes/circle.cpp"
+},
+{
+  "directory": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/build/linux-debug",
+  "command": "/usr/bin/c++ -I/usr/include/freetype2 -g -o CMakeFiles/Presentation.dir/engine/shapes/uiCircle.cpp.o -c \"/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/shapes/uiCircle.cpp\"",
+  "file": "/home/lorenz/Documents/W-Seminar Präsentation/Aufgabe 1/engine/shapes/uiCircle.cpp"
+}
+]

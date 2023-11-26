@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"58e3c31610a5eb18","type":"text","text":"# Aufgabe 1","x":300,"y":-860,"width":340,"height":69,"color":"6"},
+		{"id":"d4d32a56a008bac5","type":"text","text":"# Aufgabenstellung\n- Aufgabe PDF\n- Erläuterung der PDF","x":300,"y":-700,"width":340,"height":140},
+		{"id":"86b8e4b96b614559","type":"text","text":"# Beispiele im Programm zeigen\n\n","x":300,"y":-280,"width":340,"height":100},
+		{"id":"09869f1182c584a6","type":"text","text":"# Erklärung der Lösung\n- Notizen zeigen\n- Hinarbeiten, Recherche\n- Heuristik\n- Lösung in zwei Schritten\n- Veranschlaulicht im Programm\n- Erweiterung","x":300,"y":-100,"width":340,"height":260},
+		{"id":"6d3e34b1ada1af5e","type":"text","text":"# Aufgabe 2\n","x":1040,"y":-860,"width":340,"height":69,"color":"4"},
+		{"id":"23a0943b7a3548b0","type":"text","text":"# Aufgabenstellung\n- Aufgabe PDF\n- Erläuterung der PDF","x":1040,"y":-700,"width":340,"height":140},
+		{"id":"800eac2fb3aeafa8","type":"text","text":"# Würfel\n- Auseinanderbauen\n- Versuch des Zusammenbauens","x":1040,"y":-480,"width":340,"height":133},
+		{"id":"0fa3141739235d7e","type":"text","text":"# Einleitung\n- Algorithmen im Alltag\n- GoogleMaps\n- Suchmaschinen","x":-580,"y":-1060,"width":280,"height":200,"color":"3"},
+		{"id":"dfdc8dfaef7a24fb","type":"text","text":"# BWInf\n- Leistungsorientiert\n- 1. Runde 3 Monate\n- 2. Runde 4 Monate\n- 3. Runde Vor Ort","x":-148,"y":-1060,"width":250,"height":280},
+		{"id":"5d9d8501a9deed59","type":"text","text":"# Algorithmus im Alltag\n- Post\n- Lieferketten\n- Elektronik\n- Überleitung: **Weniger Anschaulich**","x":290,"y":240,"width":360,"height":260},
+		{"id":"16901537ec21e371","type":"text","text":"# Lösung mit Programm","x":1040,"y":-280,"width":340,"height":100},
+		{"id":"0792d277eefb0649","type":"text","text":"# Erklärung der Lösung\n- Auch Notizen...\n- Suche der Scheiben eigentliches Problem\n- Binary Search","x":1040,"y":-100,"width":340,"height":260},
+		{"id":"a457ca41ca173bee","type":"text","text":"# Schluss\n- Viel gelernt\n- ","x":1440,"y":260,"width":460,"height":280},
+		{"id":"2cffc54f0c143efe","type":"text","text":"# Arbeitsblätter\n- 5 Koordinaten\n- 10 Koordinaten","x":300,"y":-480,"width":340,"height":133}
+	],
+	"edges":[
+		{"id":"b6b9753d59707188","fromNode":"58e3c31610a5eb18","fromSide":"bottom","toNode":"d4d32a56a008bac5","toSide":"top"},
+		{"id":"1cad6b60c149519b","fromNode":"d4d32a56a008bac5","fromSide":"bottom","toNode":"2cffc54f0c143efe","toSide":"top"},
+		{"id":"a0b48a5b05b409ac","fromNode":"2cffc54f0c143efe","fromSide":"bottom","toNode":"86b8e4b96b614559","toSide":"top"},
+		{"id":"4b2f4963e53f7bf5","fromNode":"86b8e4b96b614559","fromSide":"bottom","toNode":"09869f1182c584a6","toSide":"top"},
+		{"id":"fe687ab32e0f1df8","fromNode":"09869f1182c584a6","fromSide":"bottom","toNode":"5d9d8501a9deed59","toSide":"top"},
+		{"id":"aa6ce4af7144af3c","fromNode":"5d9d8501a9deed59","fromSide":"right","toNode":"6d3e34b1ada1af5e","toSide":"left","label":"Überleitung"},
+		{"id":"aa45594302a6d35d","fromNode":"6d3e34b1ada1af5e","fromSide":"bottom","toNode":"23a0943b7a3548b0","toSide":"top"},
+		{"id":"dd913d6d90d962bc","fromNode":"0fa3141739235d7e","fromSide":"right","toNode":"dfdc8dfaef7a24fb","toSide":"left"},
+		{"id":"630accc50c9cfec5","fromNode":"dfdc8dfaef7a24fb","fromSide":"right","toNode":"58e3c31610a5eb18","toSide":"left"},
+		{"id":"caa968cab42c1328","fromNode":"23a0943b7a3548b0","fromSide":"bottom","toNode":"800eac2fb3aeafa8","toSide":"top"},
+		{"id":"88ecaaa19d3b7eff","fromNode":"800eac2fb3aeafa8","fromSide":"bottom","toNode":"16901537ec21e371","toSide":"top"},
+		{"id":"4ec15f5afca2df9d","fromNode":"0792d277eefb0649","fromSide":"bottom","toNode":"a457ca41ca173bee","toSide":"top"}
+	]
+}

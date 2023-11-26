@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "a3a1b0252ce260a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc94c45bbf2d71a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ed0cf93b980012",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": 660,
+                  "y": -260,
+                  "zoom": -1.2654803346888865
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "451f27a9995d65c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4313841e74ccfb42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28652e49b45a81a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d52d39b818f34d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29353310f159642b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5a8753b25fb32497",
+    "type": "split",
+    "children": [
+      {
+        "id": "894e3dfe2166fdd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743d2efc46508435",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cab51c6672862d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdffd079a0786f3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "362aceb484aa47d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "70ed0cf93b980012",
+  "lastOpenFiles": [
+    "Aufgaben.pdf",
+    "Aufgabe 2/output.txt",
+    "Aufgabe 2/main.o",
+    "Aufgabe 2/main.cpp",
+    "Aufgabe 2/main",
+    "Aufgabe 2/helper.o",
+    "Aufgabe 2/helper.h",
+    "Aufgabe 2/helper.cpp",
+    "Aufgabe 2/res/kaese1.txt",
+    "Aufgabe 2/res/kaese10.txt",
+    "Aufgabe 2/res/kaese5.txt",
+    "8 Punkte.png",
+    "16 Punkte.png",
+    "Gliederung.md",
+    "Canvas.canvas",
+    "2023-11-24.md",
+    "Unbenannt.canvas"
+  ]
+}
